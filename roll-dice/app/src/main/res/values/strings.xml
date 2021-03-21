@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Roll Dice</string>
+    <string name="roll_dice">ROLL DICE</string>
+    <string name="roll">ROLL</string>
+    <string name="pick_dice_count">Pick Dice Count</string>
+    <string name="dice1">dice1</string>
+    <string name="dice2">dice2</string>
+    <string-array name="select">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
 </resources>
