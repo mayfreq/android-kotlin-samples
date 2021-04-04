@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Simple Shopping App</string>
+    <string name="product1">Double-breasted Jacket</string>
+    <string name="product2">Wide High Ankle Jeans</string>
+    <string name="product3">Straight High Ankle Jeans</string>
+    <string name="product4">Fitted Blazer</string>
+    <string name="product5">Joggers High Waist</string>
+    <string name="product6">Long-sleeved Dress</string>
+    <string name="product7">Straight High Ankle Jeans</string>
+    <string name="product8">Single-breasted Jacket</string>
+    <string name="product9">Mom High Ankle Jeans </string>
+    <string name="product10">Wide-cut Blouse</string>
+    <string name="product11">Fitted Jacket</string>
+    <string name="product12">Tie-front Shirt Dress</string>
+    <string name="product13">Trench coat</string>
+    <string name="product14">Long Tank Top</string>
+    <string name="product15">2-pack Jersey Leggings</string>
+    <string name="product16">Smocked-bodice Dress</string>
+    <string name="product17">Calf-length Dress</string>
+    <string name="product18">Fine-knit T-shirt</string>
+    <string name="product19">Long V-neck Dress</string>
+    <string name="product20">Large-collared Blouse</string>
+    <string name="product">product</string>
+    <string name="add">add</string>
 </resources>
